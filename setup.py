@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='number',
-    version='0.1',
+    version='0.2',
     scripts=['number.py'],
     author="otAAAh",
     author_email="benjamin@knapp-programmieurng.de",
