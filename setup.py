@@ -8,8 +8,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='number',
-    version='0.2',
-    scripts=['number.py'],
+    version='0.3',
+    scripts=['src/number_otaaah/number.py'],
     author="otAAAh",
     author_email="benjamin@knapp-programmieurng.de",
     description="Number test package",
